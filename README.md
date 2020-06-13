@@ -12,3 +12,9 @@ Salt cracker in python  :smile:
     enter the path for dictonary file and username_password file 
  
 [Try to run in Repl](https://repl.it/repls/MammothFrivolousAdvance)
+
+
+
+### GPU advantage
+add "from numba import jit, cuda" near imports
+add "@jit(target ="cuda")" above targetpass function
