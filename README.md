@@ -1,5 +1,6 @@
 # pycrack
 Salt cracker in python  :smile:
+![...](https://github.com/eswar2001/pycrack/blob/master/Capture.JPG)
 ### Note:
     It works in unix/linux systems only
 ### Requirements:
